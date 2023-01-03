@@ -1,0 +1,9 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:JhonnyJason/thingy-finger.academy-output.git
+[submodule "sources"]
+	path = sources
+	url = git@github.com:JhonnyJason/thingy-finger.academy-sources.git
+[submodule "toolset"]
+	path = toolset
+	url = git@github.com:JhonnyJason/toolset.git
